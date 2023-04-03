@@ -7,7 +7,7 @@ export default function AboutPage() {
     <Main>
       <h2>About Page</h2>
 
-      <Link href="/">Dashboard</Link>
+      <Link href="/">Dashboard NEW</Link>
     </Main>
   );
 }
